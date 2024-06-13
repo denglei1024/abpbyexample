@@ -15,7 +15,7 @@ namespace AbpByExample;
     typeof(AbpByExampleApplicationContractsModule),
     typeof(AbpIdentityApplicationModule),
     typeof(AbpPermissionManagementApplicationModule),
-    typeof(AbpTenantManagementApplicationModule),
+    // typeof(AbpTenantManagementApplicationModule),
     typeof(AbpFeatureManagementApplicationModule),
     typeof(AbpSettingManagementApplicationModule)
     )]
